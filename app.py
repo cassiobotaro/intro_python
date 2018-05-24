@@ -27,6 +27,3 @@ def como_estou_palestrando():
         <p><input type=text name=comentario>
     </form>
     '''
-
-
-app.run()

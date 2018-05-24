@@ -1,2 +1,3 @@
-# Apresentação UEMG
-:notebook_with_decorative_cover: Apresentação ministrada na UEMG
+# Introdução ao python
+
+:notebook_with_decorative_cover: Uma introdução a linguagem python.
